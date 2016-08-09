@@ -12,6 +12,6 @@ NSSWrapper uses the Microsoft Visual C++ Redistributable Runtime. The static lib
 Please open an issue if you have problems using NSSWrapper or think you have found a bug. Professional development support is available from [Glück & Kanja](https://www.glueckkanja.com/).
 
 ## Licenses
-NSSWrapper is available under the [Mozilla Public License](LICENSE) as well as the [GPL](gp-3.0.md) (your choice). 
+NSSWrapper is available under the [Mozilla Public License](LICENSE) as well as the [GPL](gpl-3.0.md) (your choice). 
 
 NSSWrapper depends on [log4net](https://logging.apache.org/log4net/), which is available under the [Apache License, Version 2.0](https://logging.apache.org/log4net/license.html).
