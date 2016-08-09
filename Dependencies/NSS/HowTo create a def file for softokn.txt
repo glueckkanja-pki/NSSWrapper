@@ -1,0 +1,15 @@
+1. Get dlltool from Gnu binutils. The one that comes with cygwin is okay
+
+2. dlltool.exe -z softoknfreeblnssdbm.def --export-all-symbols softokn.lib nssdbm.lib freebl_s.lib
+
+example:
+
+DEBUG: d:\cygwin\inst2\bin\dlltool.exe -z d:\temp\softoknfreeblnssdbm.def --export-all-symbols D:\TestProgs\nss-3.12.3\mozilla\dist\WINNT6.1_DBG.OBJD\lib\nssdbm.lib D:\TestProgs\nss-3.12.3\mozilla\dist\WINNT6.1_DBG.OBJD\lib\freebl_s.lib D:\TestProgs\nss-3.12.3\mozilla\dist\WINNT6.1_DBG.OBJD\lib\softokn.lib
+
+RELEASE: dlltool -z d:\temp\softoknfreeblnssdbm-rel.def --export-all-symbols D:\gksvn\Products\GKDirectoryBridge\Dependencies\NSS\release\nssdbm.lib D:\gksvn\Products\GKDirectoryBridge\Dependencies\NSS\release\softokn.lib D:\gksvn\Products\GKDirectoryBridge\Dependencies\NSS\release\freebl_s.lib
+
+3. remove or comment out the line:
+
+	_real@3ff8000000000000 @ 346 DATA
+	
+	

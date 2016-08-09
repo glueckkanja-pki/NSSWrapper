@@ -5,7 +5,7 @@ NSSWrapper is written in C++/CLI and provides cryptographic functionality using 
 
 ## Build
 
-NSSWrapper uses the Microsoft Visual C++ Redistributable Runtime. The static libraries of NSS are linked into NSSWrapper.dll to form one resulting DLL. Since NSS uses native code, it is not possible to have one DLL file to support both x86 and x64 code. Currently, only x86 code is supported. 
+NSSWrapper uses the Microsoft Visual C++ Redistributable Runtime. The static libraries of NSS are linked into NSSWrapper.dll to form one resulting DLL. Since NSS uses native code, it is not possible to have one DLL file to support both x86 and x64 code. Currently, only x86 code is supported. Besides, the NSS static libraries are pre-compiled for Visual Studio 2008. Currently, you should not use newer version of Visual Studio, as you should not mix .lib files created with one Visual Studio version with headers coming with another.
 
 ## Support
 

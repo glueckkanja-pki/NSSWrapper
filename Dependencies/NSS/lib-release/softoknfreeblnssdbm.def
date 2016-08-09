@@ -1,0 +1,1129 @@
+; dlltool -z d:\temp\softoknfreeblnssdbm-rel.def --export-all-symbols D:\gksvn\Products\GKDirectoryBridge\Dependencies\NSS\release\nssdbm.lib D:\gksvn\Products\GKDirectoryBridge\Dependencies\NSS\release\softokn.lib D:\gksvn\Products\GKDirectoryBridge\Dependencies\NSS\release\freebl_s.lib
+EXPORTS
+	weave_to_mpi @ 1
+	??_C@_01BMBHCPLG@5?$AA@ @ 2 DATA
+	??_C@_01CLKCMJKC@?5?$AA@ @ 3 DATA
+	??_C@_01COCBENDE@7?$AA@ @ 4 DATA
+	??_C@_01DHDKHMHF@6?$AA@ @ 5 DATA
+	??_C@_01EEMJAFIK@?6?$AA@ @ 6 DATA
+	??_C@_01EKENIIDA@3?$AA@ @ 7 DATA
+	??_C@_01FAMBOPH@4?$AA@ @ 8 DATA
+	??_C@_01FHEEJDEE@A?$AA@ @ 9 DATA
+	??_C@_01HIHLOKLC@1?$AA@ @ 10 DATA
+	??_C@_01IHBHIGKO@?0?$AA@ @ 11 DATA
+	??_C@_01KDCPPGHE@r?$AA@ @ 12 DATA
+	??_C@_01KJLJFBPL@8?$AA@ @ 13 DATA
+	??_C@_01NEMOKFLO@?$DN?$AA@ @ 14 DATA
+	??_C@_02BBAHNLBA@?$CFp?$AA@ @ 15 DATA
+	??_C@_02CHHAKFFB@w?$CL?$AA@ @ 16 DATA
+	??_C@_02DKCKIIND@?$CFs?$AA@ @ 17 DATA
+	??_C@_02DPNLHKJD@a?$CL?$AA@ @ 18 DATA
+	??_C@_02EPINMGPM@DH?$AA@ @ 19 DATA
+	??_C@_02KAJCLHKP@no?$AA@ @ 20 DATA
+	??_C@_02LBOPFCME@BB?$AA@ @ 21 DATA
+	??_C@_03BKNEFOAH@AES?$AA@ @ 22 DATA
+	??_C@_03CABDIACC@RC2?$AA@ @ 23 DATA
+	??_C@_03CNAKKODF@DES?$AA@ @ 24 DATA
+	??_C@_03CNCGNBGO@MD2?$AA@ @ 25 DATA
+	??_C@_03DFDFBAEP@SSL?$AA@ @ 26 DATA
+	??_C@_03DICHAJGH@RSA?$AA@ @ 27 DATA
+	??_C@_03ENFFABCE@DSA?$AA@ @ 28 DATA
+	??_C@_03FKBMJBJD@NSS?$AA@ @ 29 DATA
+	??_C@_03GCGHEHKJ@MD5?$AA@ @ 30 DATA
+	??_C@_03GPFCBGOF@RC5?$AA@ @ 31 DATA
+	??_C@_03HCMCMCCF@TLS?$AA@ @ 32 DATA
+	??_C@_03HGEJCHKE@RC4?$AA@ @ 33 DATA
+	??_C@_03ICHNJLJF@key?$AA@ @ 34 DATA
+	??_C@_03ICICOMAL@yes?$AA@ @ 35 DATA
+	??_C@_03IEEBMHHA@a?$CFx?$AA@ @ 36 DATA
+	??_C@_03IGEDJCDH@?4db?$AA@ @ 37 DATA
+	??_C@_03NFKEKGGK@all?$AA@ @ 38 DATA
+	??_C@_03OBJFJEBA@any?$AA@ @ 39 DATA
+	??_C@_03POJCPIGP@CCC?$AA@ @ 40 DATA
+	??_C@_04DAEILJDJ@sql?3?$AA@ @ 41 DATA
+	??_C@_04DAMGJPCA@file?$AA@ @ 42 DATA
+	??_C@_04DLEJGNB@NSS?$DN?$AA@ @ 43 DATA
+	??_C@_04FGEHGIFJ@temp?$AA@ @ 44 DATA
+	??_C@_04GDFOJGBM@DDDD?$AA@ @ 45 DATA
+	??_C@_04HLONOPDM@?4dll?$AA@ @ 46 DATA
+	??_C@_04IOANANM@SEED?$AA@ @ 47 DATA
+	??_C@_04KBOGGAON@dbm?3?$AA@ @ 48 DATA
+	??_C@_04KJGHBCAI@?4dir?$AA@ @ 49 DATA
+	??_C@_04KOHCOJJO@?4chk?$AA@ @ 50 DATA
+	??_C@_04KPMLCNGO@SHA1?$AA@ @ 51 DATA
+	??_C@_04LGKGJOPM@Sign?$AA@ @ 52 DATA
+	??_C@_04MEMAJGDJ@name?$AA@ @ 53 DATA
+	??_C@_04PFFIJCJL@FIPS?$AA@ @ 54 DATA
+	??_C@_04PHJBACIC@cert?$AA@ @ 55 DATA
+	??_C@_05BAKJHLFJ@phKey?$AA@ @ 56 DATA
+	??_C@_05BOOEKJH@Flags?$AA@ @ 57 DATA
+	??_C@_05DFCJAACA@name?$DN?$AA@ @ 58 DATA
+	??_C@_05GECEPKB@flags?$AA@ @ 59 DATA
+	??_C@_05GFOLEBJA@?$CFs?1?$CFs?$AA@ @ 60 DATA
+	??_C@_05HHFOOOHO@?$CFs?0?$CFs?$AA@ @ 61 DATA
+	??_C@_05JKHIFKBC@?$CFs?$DN?$CFd?$AA@ @ 62 DATA
+	??_C@_05JPPLNOIE@?$CFs?$DN?$CFs?$AA@ @ 63 DATA
+	??_C@_05LFNOAECD@?5AND?5?$AA@ @ 64 DATA
+	??_C@_05MFOGKMGK@every?$AA@ @ 65 DATA
+	??_C@_05NGCOEONO@EEEEE?$AA@ @ 66 DATA
+	??_C@_05OLEPOPNP@askpw?$AA@ @ 67 DATA
+	??_C@_06CHLBDKEK@FFFFFF?$AA@ @ 68 DATA
+	??_C@_06CMGLGMED@?$CFs?0a?$CFx?$AA@ @ 69 DATA
+	??_C@_06MLDPJJIP@flags?$DN?$AA@ @ 70 DATA
+	??_C@_06NDEBMOO@Verify?$AA@ @ 71 DATA
+	??_C@_06NPHJNDCB@RANDOM?$AA@ @ 72 DATA
+	??_C@_07BLHOJKND@tokens?$DN?$AA@ @ 73 DATA
+	??_C@_07BNJOILMI@?$CFs?0?5a?$CFx?$AA@ @ 74 DATA
+	??_C@_07CEMOCOEI@Encrypt?$AA@ @ 75 DATA
+	??_C@_07CHGICOIP@ciphers?$AA@ @ 76 DATA
+	??_C@_07DDHNKDGP@timeout?$AA@ @ 77 DATA
+	??_C@_07ILFCHPDO@rdbopen?$AA@ @ 78 DATA
+	??_C@_07ILHODPPC@noModDB?$AA@ @ 79 DATA
+	??_C@_07JFOAHBMO@?$CFs?$CFd?4db?$AA@ @ 80 DATA
+	??_C@_07KMIIPNLK@?$CFsCache?$AA@ @ 81 DATA
+	??_C@_07LFOEELAM@noKeyDB?$AA@ @ 82 DATA
+	??_C@_07LKOGPHKL@extern?3?$AA@ @ 83 DATA
+	??_C@_07MFNJHAC@rdb?4dll?$AA@ @ 84 DATA
+	??_C@_07MIDNNHLI@secmod?$DN?$AA@ @ 85 DATA
+	??_C@_07MIJDMBL@GGGGGGG?$AA@ @ 86 DATA
+	??_C@_07NGFJPNPN@Version?$AA@ @ 87 DATA
+	??_C@_07OKGDHKCM@Decrypt?$AA@ @ 88 DATA
+	??_C@_07OPILGPEN@library?$AA@ @ 89 DATA
+	??_C@_07PBILKAFL@Success?$AA@ @ 90 DATA
+	??_C@_08CBBMEOFB@critical?$AA@ @ 91 DATA
+	??_C@_08EGCCLPME@Camellia?$AA@ @ 92 DATA
+	??_C@_08EPEPKFHA@0h0x?$CF08x?$AA@ @ 93 DATA
+	??_C@_08FPGGBLJD@readOnly?$AA@ @ 94 DATA
+	??_C@_08GCCBFKCG@HHHHHHHH?$AA@ @ 95 DATA
+	??_C@_08GCGKPOPM@library?$DN?$AA@ @ 96 DATA
+	??_C@_08HLNFHOIC@noCertDB?$AA@ @ 97 DATA
+	??_C@_08HMOBFONH@moduleDB?$AA@ @ 98 DATA
+	??_C@_08HPGPEGFH@?$CFs?1?$CFskey?$AA@ @ 99 DATA
+	??_C@_08IBBAIJIN@IV?5block?$AA@ @ 100 DATA
+	??_C@_08LEPPLCNF@internal?$AA@ @ 101 DATA
+	??_C@_08MDJMJJBN@phObject?$AA@ @ 102 DATA
+	??_C@_08MLAFKLIK@0l0x?$CF08x?$AA@ @ 103 DATA
+	??_C@_08NLHBPEGP@password?$AA@ @ 104 DATA
+	??_C@_08NLHMBODP@FORTEZZA?$AA@ @ 105 DATA
+	??_C@_08PGKJPPDP@metaData?$AA@ @ 106 DATA
+	??_C@_09CGJMNJJL@rdbstatus?$AA@ @ 107 DATA
+	??_C@_09COPCNDPL@IIIIIIIII?$AA@ @ 108 DATA
+	??_C@_09DDCMNOLN@rootFlags?$AA@ @ 109 DATA
+	??_C@_09ELLKNDFB@forceOpen?$AA@ @ 110 DATA
+	??_C@_09EOIGDMED@library?$DN?6?$AA@ @ 111 DATA
+	??_C@_09GOBCDJFC@secmod?4db?$AA@ @ 112 DATA
+	??_C@_09HBPPJOAH@?$CFs?$DN?$CFc?$CFs?$CFc?$AA@ @ 113 DATA
+	??_C@_09ICAGLDMD@?$CFs?1?$CFscert?$AA@ @ 114 DATA
+	??_C@_09IGMJFACK@minPWLen?$DN?$AA@ @ 115 DATA
+	??_C@_09LPNADOGP@updateID?$DN?$AA@ @ 116 DATA
+	??_C@_09NLEEBLLB@nssPublic?$AA@ @ 117 DATA
+	??_C@_09OFGDIJEG@slotFlags?$AA@ @ 118 DATA
+	??_C@_0BA@EGLGFEFO@manufacturerID?$DN?$AA@ @ 119 DATA
+	??_C@_0BA@IBHGNNAE@?$CFs?$CFsa?$CFx?$DN$DATA?$CFd?$AA@ @ 120 DATA
+	??_C@_0BA@JHFCEADG@legacy_Shutdown?$AA@ @ 121 DATA
+	??_C@_0BA@LBBFABME@?$CFs?0a?$CFx?$DN$VALUE?$CFd?$AA@ @ 122 DATA
+	??_C@_0BA@LGBGFBLF@?4_dOeSnotExist_?$AA@ @ 123 DATA
+	??_C@_0BA@MMLJMI@0x?$CF08lx?$DN?$FL?$CFs?5?$CFs?$FN?$AA@ @ 124 DATA
+	??_C@_0BB@DJIGDMHM@client?5write?5key?$AA@ @ 125 DATA
+	??_C@_0BB@FIBBIHLM@slotDescription?$DN?$AA@ @ 126 DATA
+	??_C@_0BB@GHIALFFI@0000000000000000?$AA@ @ 127 DATA
+	??_C@_0BB@GIGHGGHA@passwordRequired?$AA@ @ 128 DATA
+	??_C@_0BB@HLBNJBJK@server?5write?5key?$AA@ @ 129 DATA
+	??_C@_0BB@INIMPBBM@NSS?53?5?5?5?5?5?5?5?5?5?5?5?$AA@ @ 130 DATA
+	??_C@_0BB@NMLKJELB@NSS_ENABLE_AUDIT?$AA@ @ 131 DATA
+	??_C@_0BB@OCFJBPHP@updateKeyPrefix?$DN?$AA@ @ 132 DATA
+	??_C@_0BC@DICIBOMG@enabled?5FIPS?5mode?$AA@ @ 133 DATA
+	??_C@_0BC@DJLAANEF@DROP?5TABLE?5myTemp?$AA@ @ 134 DATA
+	??_C@_0BC@DOHCEHCB@NSS_SDB_USE_CACHE?$AA@ @ 135 DATA
+	??_C@_0BC@IFLHOGP@updateCertPrefix?$DN?$AA@ @ 136 DATA
+	??_C@_0BC@JEAENNKH@SystemFunction036?$AA@ @ 137 DATA
+	??_C@_0BC@JIBPGILK@tokenDescription?$DN?$AA@ @ 138 DATA
+	??_C@_0BD@BOMJMMFP@disabled?5FIPS?5mode?$AA@ @ 139 DATA
+	??_C@_0BD@EIAAIBI@legacy_AddSecmodDB?$AA@ @ 140 DATA
+	??_C@_0BD@FKOLJJJ@dbSlotDescription?$DN?$AA@ @ 141 DATA
+	??_C@_0BD@IANNFOBD@NSS_DISABLE_UNLOAD?$AA@ @ 142 DATA
+	??_C@_0BE@BDAMFJGE@fake?9password?9check?$AA@ @ 143 DATA
+	??_C@_0BE@CBHEBGDC@unknown?5result?5code?$AA@ @ 144 DATA
+	??_C@_0BE@EHMIKHGC@result?5is?5undefined?$AA@ @ 145 DATA
+	??_C@_0BE@FBIJLPPP@CryptReleaseContext?$AA@ @ 146 DATA
+	??_C@_0BE@HFHJMLDL@NSS_DEFAULT_DB_TYPE?$AA@ @ 147 DATA
+	??_C@_0BE@LELDJAEK@libraryDescription?$DN?$AA@ @ 148 DATA
+	??_C@_0BE@NDEGADMD@dbTokenDescription?$DN?$AA@ @ 149 DATA
+	??_C@_0BE@ONOLAOLF@legacy_ReadSecmodDB?$AA@ @ 150 DATA
+	??_C@_0BF@BBCDKCJN@FIPSSlotDescription?$DN?$AA@ @ 151 DATA
+	??_C@_0BF@EDGIFBDI@Mozilla?5Rules?5World?$CB?$AA@ @ 152 DATA
+	??_C@_0BF@ILOJAFDL@CryptAcquireContextA?$AA@ @ 153 DATA
+	??_C@_0BF@KMLBOPCF@Known?5Crypto?5Message?$AA@ @ 154 DATA
+	??_C@_0BF@PHOFCHKM@PRAGMA?5database_list?$AA@ @ 155 DATA
+	??_C@_0BG@CPPCKPNI@argument?5out?5of?5range?$AA@ @ 156 DATA
+	??_C@_0BG@NEDPEKMB@FIPSTokenDescription?$DN?$AA@ @ 157 DATA
+	??_C@_0BG@PAFDGBFO@legacy_DeleteSecmodDB?$AA@ @ 158 DATA
+	??_C@_0BH@KEHEBFBG@cryptoSlotDescription?$DN?$AA@ @ 159 DATA
+	??_C@_0BI@FIFPHGPL@invalid?5input?5parameter?$AA@ @ 160 DATA
+	??_C@_0BI@HODGKINN@updateTokenDescription?$DN?$AA@ @ 161 DATA
+	??_C@_0BI@KOOAEHNO@cryptoTokenDescription?$DN?$AA@ @ 162 DATA
+	??_C@_0BJ@EFFMPBIG@?5askpw?$DNany?5timeout?$DN30?$HN?$CJ?$CC?$AA@ @ 163 DATA
+	??_C@_0BJ@GIACAONL@PRAGMA?5temp_store?$DNMEMORY?$AA@ @ 164 DATA
+	??_C@_0BJ@OOJMCGKI@legacy_SetCryptFunctions?$AA@ @ 165 DATA
+	??_C@_0BL@PGFOPLCF@legacy_ReleaseSecmodDBData?$AA@ @ 166 DATA
+	??_C@_0BM@CIENMKCP@?$CFp?5?$HLmechanism?$DN0x?$CF08lX?0?5?4?4?4?$HN?$AA@ @ 167 DATA
+	??_C@_0BN@EAEAKABP@NSS?5Application?5Token?5?$CF08x?5?5?$AA@ @ 168 DATA
+	??_C@_0BP@MDKIIDKD@DROP?5TABLE?5IF?5EXISTS?5metaData?$DL?$AA@ @ 169 DATA
+	??_C@_0CB@COMABHPG@NSS?5Generic?5Crypto?5Services?5?5?5?5?5@ @ 170 DATA
+	??_C@_0CB@ECLBOOEG@NSS?5Certificate?5DB?5?5?5?5?5?5?5?5?5?5?5?5?5?5@ @ 171 DATA
+	??_C@_0CB@NKOCKOCF@NSS?5Internal?5Crypto?5Services?5?5?5?5@ @ 172 DATA
+	??_C@_0CB@ONNIGBEE@NSS?5FIPS?5140?92?5Certificate?5DB?5?5?5@ @ 173 DATA
+	??_C@_0CB@PIJJPOCK@Mozilla?5Foundation?5?5?5?5?5?5?5?5?5?5?5?5?5?5@ @ 174 DATA
+	??_C@_0CD@FNKNMOBE@CREATE?5TEMPORARY?5TABLE?5myTemp?5?$CIi@ @ 175 DATA
+	??_C@_0CD@HIJPBJNE@C_Logout?$CIhSession?$DN0x?$CF08lX?$CJ?$DN0x?$CF08@ @ 176 DATA
+	??_C@_0CD@PNDFEBOE@C_SetPIN?$CIhSession?$DN0x?$CF08lX?$CJ?$DN0x?$CF08@ @ 177 DATA
+	??_C@_0CE@JIINGNPO@C_InitPIN?$CIhSession?$DN0x?$CF08lX?$CJ?$DN0x?$CF0@ @ 178 DATA
+	??_C@_0CE@NDABCKM@0x?$CF08lx?$DN?$FL?$CFs?5askpw?$DN?$CFs?5timeout?$DN?$CFd?5@ @ 179 DATA
+	??_C@_0DA@CIABPFBK@C_Login?$CIhSession?$DN0x?$CF08lX?0?5userTy@ @ 180 DATA
+	??_C@_0DA@EDNANKPB@C_InitToken?$CIslotID?$DN?$CFlu?0?5pLabel?$DN?$CC@ @ 181 DATA
+	??_C@_0DC@DFOGEIED@C_Initialize?$CI?$CJ?$DN0x?$CF08lX?5power?9up?5@ @ 182 DATA
+	??_C@_0DE@OGKDIPPO@C_DigestKey?$CIhSession?$DN0x?$CF08lX?0?5hK@ @ 183 DATA
+	??_C@_0DJ@LINJPNCN@library?$DN?5name?$DN?$CCNSS?5Internal?5PKCS@ @ 184 DATA
+	??_C@_0DL@KPLBEJIM@C_DestroyObject?$CIhSession?$DN0x?$CF08lX@ @ 185 DATA
+	??_C@_0DN@PHDDIPHD@NSS?5Application?5Slot?5?$CF08x?5?5?5?5?5?5?5@ @ 186 DATA
+	??_C@_0EA@DIKNEPF@C_?$CFsInit?$CIhSession?$DN0x?$CF08lX?0?5pMech@ @ 187 DATA
+	??_C@_0EB@DGNKIPFJ@NSS?5User?5Private?5Key?5and?5Certifi@ @ 188 DATA
+	??_C@_0EB@MLOJLFCE@0123456789ABCDEFGHIJKLMNOPQRSTUV@ @ 189 DATA
+	??_C@_0EB@OALNABLB@NSS?5FIPS?5140?92?5User?5Private?5Key?5@ @ 190 DATA
+	??_C@_0EB@PLDILAKF@NSS?5Internal?5Cryptographic?5Servi@ @ 191 DATA
+	??_C@_0EH@PJEMFMME@C_GetObjectSize?$CIhSession?$DN0x?$CF08lX@ @ 192 DATA
+	??_C@_0EM@CLLDJDOM@?5NSS?$DN?$CCFlags?$DNinternal?0critical?5tr@ @ 193 DATA
+	??_C@_0FD@LPFDFGBL@C_CreateObject?$CIhSession?$DN0x?$CF08lX?0@ @ 194 DATA
+	??_C@_0FJ@FDBIJHPF@?5hClientMacSecret?$DN0x?$CF08lX?5hServe@ @ 195 DATA
+	??_C@_0FK@FKJMPBHF@C_SetAttributeValue?$CIhSession?$DN0x?$CF@ @ 196 DATA
+	??_C@_0FK@KCPLEFAH@C_GetAttributeValue?$CIhSession?$DN0x?$CF@ @ 197 DATA
+	??_C@_0FO@LGABJPMH@C_GenerateKey?$CIhSession?$DN0x?$CF08lX?0?5@ @ 198 DATA
+	??_C@_0FP@CJFJHGDI@slotFlags?$DN?$FLRSA?0DSA?0DH?0RC2?0RC4?0DE@ @ 199 DATA
+	??_C@_0GF@EGJHFAGM@C_CopyObject?$CIhSession?$DN0x?$CF08lX?0?5h@ @ 200 DATA
+	??_C@_0HC@EBOCGMCK@C_GenerateRandom?$CIhSession?$DN0x?$CF08l@ @ 201 DATA
+	??_C@_0HI@CIJNLHFL@C_GenerateKeyPair?$CIhSession?$DN0x?$CF08@ @ 202 DATA
+	??_C@_0HJ@HADNCKCI@C_DeriveKey?$CIhSession?$DN0x?$CF08lX?0?5pM@ @ 203 DATA
+	??_C@_0HM@JHGBPJJD@C_WrapKey?$CIhSession?$DN0x?$CF08lX?0?5pMec@ @ 204 DATA
+	??_C@_0KC@GGFCJPAF@library?$DN?5name?$DN?$CCNSS?5Internal?5PKCS@ @ 205 DATA
+	??_C@_0KC@KNABCLBM@C_UnwrapKey?$CIhSession?$DN0x?$CF08lX?0?5pM@ @ 206 DATA
+	??_C@_0L@CCJIJGIJ@configDir?$DN?$AA@ @ 207 DATA
+	??_C@_0L@DCLOKHOL@trustOrder?$AA@ @ 208 DATA
+	??_C@_0L@DHELCLMH@slotParams?$AA@ @ 209 DATA
+	??_C@_0L@EFHJOPBA@isModuleDB?$AA@ @ 210 DATA
+	??_C@_0L@EOEDJBCP@pkcs11?4txt?$AA@ @ 211 DATA
+	??_C@_0L@GGFEJNOG@updateDir?$DN?$AA@ @ 212 DATA
+	??_C@_0L@HHPOFMCB@parameters?$AA@ @ 213 DATA
+	??_C@_0L@JKPNACMK@keyPrefix?$DN?$AA@ @ 214 DATA
+	??_C@_0L@KMEBHJDD@Server?9Key?$AA@ @ 215 DATA
+	??_C@_0L@PAOLMLAN@?$CFskey?$CFs?4db?$AA@ @ 216 DATA
+	??_C@_0L@PNNKIEJH@nssPrivate?$AA@ @ 217 DATA
+	??_C@_0M@CGPGKGLM@parameters?$DN?$AA@ @ 218 DATA
+	??_C@_0M@COGAAAOJ@legacy_Open?$AA@ @ 219 DATA
+	??_C@_0M@FACLLIA@SignRecover?$AA@ @ 220 DATA
+	??_C@_0M@FDKCKOPP@phNewObject?$AA@ @ 221 DATA
+	??_C@_0M@GDFJNEGJ@PublicCerts?$AA@ @ 222 DATA
+	??_C@_0M@HKJEMFMD@?$CFs?5?$CFs?5?$CFs?5?$CFs?$AA@ @ 223 DATA
+	??_C@_0M@IDIFBNPM@?$CFs?0$VALUE?$CFd?$AA@ @ 224 DATA
+	??_C@_0M@IGAJEEHJ@nssdbm3?4dll?$AA@ @ 225 DATA
+	??_C@_0M@IOFAEIJ@?$CFscert?$CFs?4db?$AA@ @ 226 DATA
+	??_C@_0M@JIDMJPNB@cipherOrder?$AA@ @ 227 DATA
+	??_C@_0M@JKBCAJNL@phPublicKey?$AA@ @ 228 DATA
+	??_C@_0M@LDCIJNHB@certPrefix?$DN?$AA@ @ 229 DATA
+	??_C@_0M@MEEFKKE@global?9salt?$AA@ @ 230 DATA
+	??_C@_0M@MIAKDILN@Server?9Cert?$AA@ @ 231 DATA
+	??_C@_0M@OEOKACAP@?$CFs?00l0x?$CF08x?$AA@ @ 232 DATA
+	??_C@_0MO@OINMBIMG@C_GenerateKeyPair?$CIhSession?$DN0x?$CF08@ @ 233 DATA
+	??_C@_0N@BBFJPIKF@hasRootCerts?$AA@ @ 234 DATA
+	??_C@_0N@BDDFKIGD@GenuineIntel?$AA@ @ 235 DATA
+	??_C@_0N@CANBHNOO@RiseRiseRise?$AA@ @ 236 DATA
+	??_C@_0N@CDCIJHMN@multiaccess?3?$AA@ @ 237 DATA
+	??_C@_0N@COACCPPO@?5?$CK?$CFs?$DN0x?$CF08lX?$AA@ @ 238 DATA
+	??_C@_0N@DHAFJCOO@CentaurHauls?$AA@ @ 239 DATA
+	??_C@_0N@EEPKFLHH@GenuineTMx86?$AA@ @ 240 DATA
+	??_C@_0N@ELIGNIDP@Geode?5by?5NSC?$AA@ @ 241 DATA
+	??_C@_0N@FFJGBINN@AuthenticAMD?$AA@ @ 242 DATA
+	??_C@_0N@GEIIBMJF@phPrivateKey?$AA@ @ 243 DATA
+	??_C@_0N@HFLJLOEN@NexGenDriven?$AA@ @ 244 DATA
+	??_C@_0N@HHANAPFC@?$CFs?1?$CFs?$CFs?$CFd?4db?$AA@ @ 245 DATA
+	??_C@_0N@HNBNMCHD@moduleDBOnly?$AA@ @ 246 DATA
+	??_C@_0N@HNFEHFOD@Sis?5Sis?5Sis?5?$AA@ @ 247 DATA
+	??_C@_0N@INAGJMNN@advapi32?4dll?$AA@ @ 248 DATA
+	??_C@_0N@JNFBOOBA@boolean?5true?$AA@ @ 249 DATA
+	??_C@_0N@KBCLIFKD@CyrixInstead?$AA@ @ 250 DATA
+	??_C@_0N@KJDDJOP@hasRootTrust?$AA@ @ 251 DATA
+	??_C@_0N@MMNCJJII@UMC?5UMC?5UMC?5?$AA@ @ 252 DATA
+	??_C@_0N@MPAMPDFI@a?$CFx?$DN$VALUE?$CFd?$AA@ @ 253 DATA
+	??_C@_0N@OBCJGNKE@?5parameters?$DN?$AA@ @ 254 DATA
+	??_C@_0N@PPLMHECK@softokn3?4dll?$AA@ @ 255 DATA
+	??_C@_0O@BNNCBLEN@out?5of?5memory?$AA@ @ 256 DATA
+	??_C@_0O@EOHBJBLD@key?5expansion?$AA@ @ 257 DATA
+	??_C@_0O@FEJGMKDJ@master?5secret?$AA@ @ 258 DATA
+	??_C@_0O@FJEEFHHN@boolean?5false?$AA@ @ 259 DATA
+	??_C@_0O@MHIODOFP@VerifyRecover?$AA@ @ 260 DATA
+	??_C@_0O@NAKCGFBL@optimizeSpace?$AA@ @ 261 DATA
+	??_C@_0P@EIKAFNDF@?$CFs?5?$CFs?5?$CFs?5?$CFs?5?$CFs?$AA@ @ 262 DATA
+	??_C@_0P@FPGBIPDK@password?9check?$AA@ @ 263 DATA
+	??_C@_0P@HGPEDCEI@CryptGenRandom?$AA@ @ 264 DATA
+	??_C@_0P@LEIGAIPB@isModuleDBOnly?$AA@ @ 265 DATA
+	??_C@_13JOFGPIOO@?$AA?4?$AA?$AA@ @ 266 DATA
+	??_C@_15DDHGOCBH@?$AA?4?$AA?4?$AA?$AA@ @ 267 DATA
+	??_C@_1M@DFKENGJN@?$AA?$CF?$AAs?$AA?2?$AA?$CF?$AAs?$AA?$AA@ @ 268 DATA
+	??_C@_1O@NOAPAMN@?$AA?$CF?$AAs?$AA?2?$AA?$CK?$AA?4?$AA?$CK?$AA?$AA@ @ 269 DATA
+	AESKeyWrap_AllocateContext @ 270
+	AESKeyWrap_CreateContext @ 271
+	AESKeyWrap_Decrypt @ 272
+	AESKeyWrap_DestroyContext @ 273
+	AESKeyWrap_Encrypt @ 274
+	AESKeyWrap_InitContext @ 275
+	AES_AllocateContext @ 276
+	AES_CreateContext @ 277
+	AES_Decrypt @ 278
+	AES_DestroyContext @ 279
+	AES_Encrypt @ 280
+	AES_InitContext @ 281
+	AddToList @ 282
+	BLAPI_SHVerify @ 283
+	BLAPI_VerifySelf @ 284
+	BL_Cleanup @ 285
+	BL_Init @ 286
+	BL_SetForkState @ 287
+	BL_Unload @ 288
+	CBC_PadBuffer @ 289
+	C_GetFunctionList @ 290
+	Camellia_AllocateContext @ 291
+	Camellia_CreateContext @ 292
+	Camellia_Decrypt @ 293
+	Camellia_DestroyContext @ 294
+	Camellia_Encrypt @ 295
+	Camellia_InitContext @ 296
+	DES_AllocateContext @ 297
+	DES_CreateContext @ 298
+	DES_Decrypt @ 299
+	DES_DestroyContext @ 300
+	DES_Do1Block @ 301
+	DES_Encrypt @ 302
+	DES_InitContext @ 303
+	DES_MakeSchedule @ 304
+	DH_Derive @ 305
+	DH_GenParam @ 306
+	DH_NewKey @ 307
+	DSA_NewKey @ 308
+	DSA_NewKeyFromSeed @ 309
+	DSA_SignDigest @ 310
+	DSA_SignDigestWithSeed @ 311
+	DSA_VerifyDigest @ 312
+	ECDH_Derive @ 313
+	ECDSA_SignDigest @ 314
+	ECDSA_SignDigestWithSeed @ 315
+	ECDSA_VerifyDigest @ 316
+	EC_NewKey @ 317
+	EC_NewKeyFromSeed @ 318
+	EC_ValidatePublicKey @ 319
+	FC_CancelFunction @ 320
+	FC_CloseAllSessions @ 321
+	FC_CloseSession @ 322
+	FC_CopyObject @ 323
+	FC_CreateObject @ 324
+	FC_Decrypt @ 325
+	FC_DecryptDigestUpdate @ 326
+	FC_DecryptFinal @ 327
+	FC_DecryptInit @ 328
+	FC_DecryptUpdate @ 329
+	FC_DecryptVerifyUpdate @ 330
+	FC_DeriveKey @ 331
+	FC_DestroyObject @ 332
+	FC_Digest @ 333
+	FC_DigestEncryptUpdate @ 334
+	FC_DigestFinal @ 335
+	FC_DigestInit @ 336
+	FC_DigestKey @ 337
+	FC_DigestUpdate @ 338
+	FC_Encrypt @ 339
+	FC_EncryptFinal @ 340
+	FC_EncryptInit @ 341
+	FC_EncryptUpdate @ 342
+	FC_Finalize @ 343
+	FC_FindObjects @ 344
+	FC_FindObjectsFinal @ 345
+	FC_FindObjectsInit @ 346
+	FC_GenerateKey @ 347
+	FC_GenerateKeyPair @ 348
+	FC_GenerateRandom @ 349
+	FC_GetAttributeValue @ 350
+	FC_GetFunctionList @ 351
+	FC_GetFunctionStatus @ 352
+	FC_GetInfo @ 353
+	FC_GetMechanismInfo @ 354
+	FC_GetMechanismList @ 355
+	FC_GetObjectSize @ 356
+	FC_GetOperationState @ 357
+	FC_GetSessionInfo @ 358
+	FC_GetSlotInfo @ 359
+	FC_GetSlotList @ 360
+	FC_GetTokenInfo @ 361
+	FC_InitPIN @ 362
+	FC_InitToken @ 363
+	FC_Initialize @ 364
+	FC_Login @ 365
+	FC_Logout @ 366
+	FC_OpenSession @ 367
+	FC_SeedRandom @ 368
+	FC_SetAttributeValue @ 369
+	FC_SetOperationState @ 370
+	FC_SetPIN @ 371
+	FC_Sign @ 372
+	FC_SignEncryptUpdate @ 373
+	FC_SignFinal @ 374
+	FC_SignInit @ 375
+	FC_SignRecover @ 376
+	FC_SignRecoverInit @ 377
+	FC_SignUpdate @ 378
+	FC_UnwrapKey @ 379
+	FC_Verify @ 380
+	FC_VerifyFinal @ 381
+	FC_VerifyInit @ 382
+	FC_VerifyRecover @ 383
+	FC_VerifyRecoverInit @ 384
+	FC_VerifyUpdate @ 385
+	FC_WaitForSlotEvent @ 386
+	FC_WrapKey @ 387
+	FIPS186Change_GenerateX @ 388
+	FIPS186Change_ReduceModQForDSA @ 389
+	FREEBL_GetVector @ 390
+	HASH_FromHMACOid @ 391
+	HASH_GetRawHashObject @ 392
+	HMAC_Begin @ 393
+	HMAC_Clone @ 394
+	HMAC_Create @ 395
+	HMAC_Destroy @ 396
+	HMAC_Finish @ 397
+	HMAC_Init @ 398
+	HMAC_Update @ 399
+	KEA_Derive @ 400
+	KEA_Verify @ 401
+	MD2_Begin @ 402
+	MD2_Clone @ 403
+	MD2_DestroyContext @ 404
+	MD2_End @ 405
+	MD2_Flatten @ 406
+	MD2_FlattenSize @ 407
+	MD2_Hash @ 408
+	MD2_NewContext @ 409
+	MD2_Resurrect @ 410
+	MD2_Update @ 411
+	MD5_Begin @ 412
+	MD5_Clone @ 413
+	MD5_DestroyContext @ 414
+	MD5_End @ 415
+	MD5_Flatten @ 416
+	MD5_FlattenSize @ 417
+	MD5_Hash @ 418
+	MD5_HashBuf @ 419
+	MD5_NewContext @ 420
+	MD5_Resurrect @ 421
+	MD5_TraceState @ 422
+	MD5_Update @ 423
+	NSC_CancelFunction @ 424
+	NSC_CloseAllSessions @ 425
+	NSC_CloseSession @ 426
+	NSC_CopyObject @ 427
+	NSC_CreateObject @ 428
+	NSC_Decrypt @ 429
+	NSC_DecryptDigestUpdate @ 430
+	NSC_DecryptFinal @ 431
+	NSC_DecryptInit @ 432
+	NSC_DecryptUpdate @ 433
+	NSC_DecryptVerifyUpdate @ 434
+	NSC_DeriveKey @ 435
+	NSC_DestroyObject @ 436
+	NSC_Digest @ 437
+	NSC_DigestEncryptUpdate @ 438
+	NSC_DigestFinal @ 439
+	NSC_DigestInit @ 440
+	NSC_DigestKey @ 441
+	NSC_DigestUpdate @ 442
+	NSC_Encrypt @ 443
+	NSC_EncryptFinal @ 444
+	NSC_EncryptInit @ 445
+	NSC_EncryptUpdate @ 446
+	NSC_Finalize @ 447
+	NSC_FindObjects @ 448
+	NSC_FindObjectsFinal @ 449
+	NSC_FindObjectsInit @ 450
+	NSC_GenerateKey @ 451
+	NSC_GenerateKeyPair @ 452
+	NSC_GenerateRandom @ 453
+	NSC_GetAttributeValue @ 454
+	NSC_GetFunctionList @ 455
+	NSC_GetFunctionStatus @ 456
+	NSC_GetInfo @ 457
+	NSC_GetMechanismInfo @ 458
+	NSC_GetMechanismList @ 459
+	NSC_GetObjectSize @ 460
+	NSC_GetOperationState @ 461
+	NSC_GetSessionInfo @ 462
+	NSC_GetSlotInfo @ 463
+	NSC_GetSlotList @ 464
+	NSC_GetTokenInfo @ 465
+	NSC_InitPIN @ 466
+	NSC_InitToken @ 467
+	NSC_Initialize @ 468
+	NSC_Login @ 469
+	NSC_Logout @ 470
+	NSC_ModuleDBFunc @ 471
+	NSC_OpenSession @ 472
+	NSC_SeedRandom @ 473
+	NSC_SetAttributeValue @ 474
+	NSC_SetOperationState @ 475
+	NSC_SetPIN @ 476
+	NSC_Sign @ 477
+	NSC_SignEncryptUpdate @ 478
+	NSC_SignFinal @ 479
+	NSC_SignInit @ 480
+	NSC_SignRecover @ 481
+	NSC_SignRecoverInit @ 482
+	NSC_SignUpdate @ 483
+	NSC_UnwrapKey @ 484
+	NSC_Verify @ 485
+	NSC_VerifyFinal @ 486
+	NSC_VerifyInit @ 487
+	NSC_VerifyRecover @ 488
+	NSC_VerifyRecoverInit @ 489
+	NSC_VerifyUpdate @ 490
+	NSC_WaitForSlotEvent @ 491
+	NSC_WrapKey @ 492
+	PQG_DestroyParams @ 493
+	PQG_DestroyVerify @ 494
+	PQG_ParamGen @ 495
+	PQG_ParamGenSeedLen @ 496
+	PQG_VerifyParams @ 497
+	PRNGTEST_Generate @ 498
+	PRNGTEST_Instantiate @ 499
+	PRNGTEST_Reseed @ 500
+	PRNGTEST_Uninstantiate @ 501
+	RC2_AllocateContext @ 502
+	RC2_CreateContext @ 503
+	RC2_Decrypt @ 504
+	RC2_DestroyContext @ 505
+	RC2_Encrypt @ 506
+	RC2_InitContext @ 507
+	RC4_AllocateContext @ 508
+	RC4_CreateContext @ 509
+	RC4_Decrypt @ 510
+	RC4_DestroyContext @ 511
+	RC4_Encrypt @ 512
+	RC4_InitContext @ 513
+	RC5_CreateContext @ 514
+	RC5_Decrypt @ 515
+	RC5_DestroyContext @ 516
+	RC5_Encrypt @ 517
+	RNG_FileForRNG @ 518
+	RNG_GenerateGlobalRandomBytes @ 519
+	RNG_GetNoise @ 520
+	RNG_RNGInit @ 521
+	RNG_RNGShutdown @ 522
+	RNG_RandomUpdate @ 523
+	RNG_SystemInfoForRNG @ 524
+	RNG_SystemRNG @ 525
+	RSA_CheckSign @ 526
+	RSA_CheckSignRaw @ 527
+	RSA_CheckSignRecover @ 528
+	RSA_CheckSignRecoverRaw @ 529
+	RSA_Cleanup @ 530
+	RSA_DecryptBlock @ 531
+	RSA_DecryptRaw @ 532
+	RSA_EncryptBlock @ 533
+	RSA_EncryptRaw @ 534
+	RSA_HashCheckSign @ 535
+	RSA_HashSign @ 536
+	RSA_NewKey @ 537
+	RSA_PrivateKeyCheck @ 538
+	RSA_PrivateKeyOp @ 539
+	RSA_PrivateKeyOpDoubleChecked @ 540
+	RSA_PublicKeyOp @ 541
+	RSA_Sign @ 542
+	RSA_SignRaw @ 543
+	SECRawHashObjects @ 544 DATA
+	SEED_AllocateContext @ 545
+	SEED_CreateContext @ 546
+	SEED_Decrypt @ 547
+	SEED_DestroyContext @ 548
+	SEED_Encrypt @ 549
+	SEED_InitContext @ 550
+	SEED_cbc_encrypt @ 551
+	SEED_decrypt @ 552
+	SEED_ecb_encrypt @ 553
+	SEED_encrypt @ 554
+	SEED_set_key @ 555
+	SFTK_ClearTokenKeyHashTable @ 556
+	SFTK_DestroySlotData @ 557
+	SFTK_ShutdownSlot @ 558
+	SFTK_SlotInit @ 559
+	SFTK_SlotReInit @ 560
+	SHA1_Begin @ 561
+	SHA1_Clone @ 562
+	SHA1_DestroyContext @ 563
+	SHA1_End @ 564
+	SHA1_Flatten @ 565
+	SHA1_FlattenSize @ 566
+	SHA1_Hash @ 567
+	SHA1_HashBuf @ 568
+	SHA1_NewContext @ 569
+	SHA1_Resurrect @ 570
+	SHA1_TraceState @ 571
+	SHA1_Update @ 572
+	SHA256_Begin @ 573
+	SHA256_Clone @ 574
+	SHA256_DestroyContext @ 575
+	SHA256_End @ 576
+	SHA256_Flatten @ 577
+	SHA256_FlattenSize @ 578
+	SHA256_Hash @ 579
+	SHA256_HashBuf @ 580
+	SHA256_NewContext @ 581
+	SHA256_Resurrect @ 582
+	SHA256_TraceState @ 583
+	SHA256_Update @ 584
+	SHA384_Begin @ 585
+	SHA384_Clone @ 586
+	SHA384_DestroyContext @ 587
+	SHA384_End @ 588
+	SHA384_Flatten @ 589
+	SHA384_FlattenSize @ 590
+	SHA384_Hash @ 591
+	SHA384_HashBuf @ 592
+	SHA384_NewContext @ 593
+	SHA384_Resurrect @ 594
+	SHA384_TraceState @ 595
+	SHA384_Update @ 596
+	SHA512_Begin @ 597
+	SHA512_Clone @ 598
+	SHA512_DestroyContext @ 599
+	SHA512_End @ 600
+	SHA512_Flatten @ 601
+	SHA512_FlattenSize @ 602
+	SHA512_Hash @ 603
+	SHA512_HashBuf @ 604
+	SHA512_NewContext @ 605
+	SHA512_Resurrect @ 606
+	SHA512_TraceState @ 607
+	SHA512_Update @ 608
+	SQLITE_EXPLICIT_NULL @ 609 DATA
+	TLS_PRF @ 610
+	__nss_freebl_rcsid @ 611 DATA
+	__nss_freebl_sccsid @ 612 DATA
+	__nss_softokn_rcsid @ 613 DATA
+	__nss_softokn_sccsid @ 614 DATA
+;	_real@3ff8000000000000 @ 615 DATA
+	camellia_decrypt128 @ 616
+	camellia_decrypt256 @ 617
+	camellia_decryptCBC @ 618
+	camellia_decryptECB @ 619
+	camellia_encrypt128 @ 620
+	camellia_encrypt256 @ 621
+	camellia_encryptCBC @ 622
+	camellia_encryptECB @ 623
+	camellia_key_expansion @ 624
+	camellia_setup128 @ 625
+	camellia_setup192 @ 626
+	camellia_setup256 @ 627
+	certdb_InitDBLock @ 628
+	db_BeginTransaction @ 629
+	db_Copy @ 630
+	db_FinishTransaction @ 631
+	db_InitComplete @ 632
+	db_IsRDB @ 633
+	dbsopen @ 634
+	dsa_NewKey @ 635
+	ec_NewKey @ 636
+	fc_getAttribute @ 637
+	freebl_cpuid @ 638
+	legacy_AddSecmodDB @ 639
+	legacy_DeleteSecmodDB @ 640
+	legacy_Open @ 641
+	legacy_ReadSecmodDB @ 642
+	legacy_ReleaseSecmodDBData @ 643
+	legacy_SetCryptFunctions @ 644
+	legacy_Shutdown @ 645
+	lfopen @ 646
+	lg_Abort @ 647
+	lg_Attribute2SSecItem @ 648
+	lg_Attribute2SecItem @ 649
+	lg_Begin @ 650
+	lg_ClearTokenKeyHashTable @ 651
+	lg_Close @ 652
+	lg_Commit @ 653
+	lg_CompareValues @ 654
+	lg_CreateObject @ 655
+	lg_DBLock @ 656
+	lg_DBUnlock @ 657
+	lg_DestroyObject @ 658
+	lg_EncryptedDataInfoTemplate @ 659 DATA
+	lg_EvaluateConfigDir @ 660
+	lg_FindAttribute @ 661
+	lg_FindKeyByPublicKey @ 662
+	lg_FindObjects @ 663
+	lg_FindObjectsFinal @ 664
+	lg_FindObjectsInit @ 665
+	lg_FreeSearch @ 666
+	lg_GetAttributeValue @ 667
+	lg_GetHashTable @ 668
+	lg_GetMetaData @ 669
+	lg_GetSingleAttribute @ 670
+	lg_GetULongAttribute @ 671
+	lg_MapTrust @ 672
+	lg_PrivAttr2SSecItem @ 673
+	lg_PrivAttr2SecItem @ 674
+	lg_PutMetaData @ 675
+	lg_Reset @ 676
+	lg_SetAttributeValue @ 677
+	lg_SetForkState @ 678
+	lg_StaticOneValue @ 679 DATA
+	lg_addHandle @ 680
+	lg_cmpAttribute @ 681
+	lg_deleteTokenKeyByHandle @ 682
+	lg_getCertDB @ 683
+	lg_getKeyDB @ 684
+	lg_getString @ 685
+	lg_hasAttribute @ 686
+	lg_init @ 687
+	lg_isTrue @ 688
+	lg_lookupTokenKeyByHandle @ 689
+	lg_mkHandle @ 690
+	lg_poisonHandle @ 691
+	lg_staticFalseValue @ 692 DATA
+	lg_staticTrueValue @ 693 DATA
+	lg_tokenMatch @ 694
+	lg_util_decrypt @ 695
+	lg_util_encrypt @ 696
+	mp_2expt @ 697
+	mp_abs @ 698
+	mp_add @ 699
+	mp_add_d @ 700
+	mp_addmod @ 701
+	mp_allocs @ 702 DATA
+	mp_badd @ 703
+	mp_barr2poly @ 704
+	mp_bdivmod @ 705
+	mp_bmod @ 706
+	mp_bmul @ 707
+	mp_bmulmod @ 708
+	mp_bpoly2arr @ 709
+	mp_bsqrmod @ 710
+	mp_clear @ 711
+	mp_cmp @ 712
+	mp_cmp_d @ 713
+	mp_cmp_int @ 714
+	mp_cmp_mag @ 715
+	mp_cmp_z @ 716
+	mp_copies @ 717 DATA
+	mp_copy @ 718
+	mp_div @ 719
+	mp_div_2 @ 720
+	mp_div_2d @ 721
+	mp_div_d @ 722
+	mp_exch @ 723
+	mp_expt @ 724
+	mp_expt_d @ 725
+	mp_exptmod @ 726
+	mp_exptmod_d @ 727
+	mp_exptmod_i @ 728
+	mp_exptmod_safe_i @ 729
+	mp_frees @ 730 DATA
+	mp_gcd @ 731
+	mp_get_prec @ 732
+	mp_gf2m_sqr_tb @ 733 DATA
+	mp_init @ 734
+	mp_init_copy @ 735
+	mp_init_size @ 736
+	mp_invmod @ 737
+	mp_invmod_xgcd @ 738
+	mp_iseven @ 739
+	mp_isodd @ 740
+	mp_lcm @ 741
+	mp_mod @ 742
+	mp_mod_d @ 743
+	mp_mul @ 744
+	mp_mul_2 @ 745
+	mp_mul_d @ 746
+	mp_mulmod @ 747
+	mp_neg @ 748
+	mp_radix_size @ 749
+	mp_raw_size @ 750
+	mp_read_radix @ 751
+	mp_read_raw @ 752
+	mp_read_unsigned_octets @ 753
+	mp_read_variable_radix @ 754
+	mp_set @ 755
+	mp_set_int @ 756
+	mp_set_prec @ 757
+	mp_set_safe_modexp @ 758
+	mp_set_ulong @ 759
+	mp_sqr @ 760
+	mp_sqrmod @ 761
+	mp_sqrt @ 762
+	mp_strerror @ 763
+	mp_sub @ 764
+	mp_sub_d @ 765
+	mp_submod @ 766
+	mp_to_fixlen_octets @ 767
+	mp_to_signed_octets @ 768
+	mp_to_unsigned_octets @ 769
+	mp_toradix @ 770
+	mp_toraw @ 771
+	mp_tovalue @ 772
+	mp_trailing_zeros @ 773
+	mp_unsigned_octet_size @ 774
+	mp_using_cache_safe_exp @ 775 DATA
+	mp_xgcd @ 776
+	mp_zero @ 777
+	mpi_to_weave @ 778
+	mpl_and @ 779
+	mpl_get_bit @ 780
+	mpl_get_bits @ 781
+	mpl_lsh @ 782
+	mpl_not @ 783
+	mpl_num_clear @ 784
+	mpl_num_set @ 785
+	mpl_or @ 786
+	mpl_parity @ 787
+	mpl_rsh @ 788
+	mpl_set_bit @ 789
+	mpl_significant_bits @ 790
+	mpl_xor @ 791
+	mpp_divis @ 792
+	mpp_divis_d @ 793
+	mpp_divis_primes @ 794
+	mpp_divis_vector @ 795
+	mpp_fermat @ 796
+	mpp_fermat_list @ 797
+	mpp_make_prime @ 798
+	mpp_pprime @ 799
+	mpp_random @ 800
+	mpp_random_size @ 801
+	mpp_sieve @ 802
+	nsc_CommonFinalize @ 803
+	nsc_CommonGetSlotList @ 804
+	nsc_CommonInitialize @ 805
+	nsc_SetupHMACKeyGen @ 806
+	nsc_init @ 807 DATA
+	nsf_init @ 808 DATA
+	nsslowcert_AddCrl @ 809
+	nsslowcert_AddPermCert @ 810
+	nsslowcert_AddPermNickname @ 811
+	nsslowcert_CertDBKeyConflict @ 812
+	nsslowcert_ChangeCertTrust @ 813
+	nsslowcert_ClosePermCertDB @ 814
+	nsslowcert_CreateCert @ 815
+	nsslowcert_DecodeAnyDBEntry @ 816
+	nsslowcert_DecodeDERCertificate @ 817
+	nsslowcert_DeletePermCRL @ 818
+	nsslowcert_DeletePermCertificate @ 819
+	nsslowcert_DestroyCertificate @ 820
+	nsslowcert_DestroyDBEntry @ 821
+	nsslowcert_DestroyFreeLists @ 822
+	nsslowcert_DestroyGlobalLocks @ 823
+	nsslowcert_DestroyTrust @ 824
+	nsslowcert_DupCertificate @ 825
+	nsslowcert_ExtractPublicKey @ 826
+	nsslowcert_FindCertByDERCert @ 827
+	nsslowcert_FindCertByIssuerAndSN @ 828
+	nsslowcert_FindCertByKey @ 829
+	nsslowcert_FindCrlByKey @ 830
+	nsslowcert_FindTrustByIssuerAndSN @ 831
+	nsslowcert_FindTrustByKey @ 832
+	nsslowcert_FixupEmailAddr @ 833
+	nsslowcert_GetCertTrust @ 834
+	nsslowcert_InitLocks @ 835
+	nsslowcert_IsNewer @ 836
+	nsslowcert_KeyFromDERCert @ 837
+	nsslowcert_NumPermCertsForNickname @ 838
+	nsslowcert_NumPermCertsForSubject @ 839
+	nsslowcert_OpenCertDB @ 840
+	nsslowcert_ReadDBSMimeEntry @ 841
+	nsslowcert_SaveSMimeProfile @ 842
+	nsslowcert_TraverseDBEntries @ 843
+	nsslowcert_TraversePermCerts @ 844
+	nsslowcert_TraversePermCertsForNickname @ 845
+	nsslowcert_TraversePermCertsForSubject @ 846
+	nsslowcert_hasTrust @ 847
+	nsslowcert_needDBVerify @ 848
+	nsslowcert_setDBVerify @ 849
+	nsslowkey_AttributeTemplate @ 850 DATA
+	nsslowkey_CloseKeyDB @ 851
+	nsslowkey_ConvertToPublicKey @ 852
+	nsslowkey_CopyPrivateKey @ 853
+	nsslowkey_DHPrivateKeyTemplate @ 854 DATA
+	nsslowkey_DSAPrivateKeyExportTemplate @ 855 DATA
+	nsslowkey_DSAPrivateKeyTemplate @ 856 DATA
+	nsslowkey_DeleteKey @ 857
+	nsslowkey_DestroyPrivateKey @ 858
+	nsslowkey_DestroyPublicKey @ 859
+	nsslowkey_EncryptedPrivateKeyInfoTemplate @ 860 DATA
+	nsslowkey_FindKeyByPublicKey @ 861
+	nsslowkey_FindKeyNicknameByPublicKey @ 862
+	nsslowkey_GetKeyDBVersion @ 863
+	nsslowkey_KeyForCertExists @ 864
+	nsslowkey_KeyForIDExists @ 865
+	nsslowkey_OpenKeyDB @ 866
+	nsslowkey_PQGParamsTemplate @ 867 DATA
+	nsslowkey_PointerToEncryptedPrivateKeyInfoTemplate @ 868 DATA
+	nsslowkey_PrivateKeyInfoTemplate @ 869 DATA
+	nsslowkey_PrivateModulusLen @ 870
+	nsslowkey_PublicModulusLen @ 871
+	nsslowkey_RSAPrivateKeyTemplate @ 872 DATA
+	nsslowkey_SetOfAttributeTemplate @ 873 DATA
+	nsslowkey_StoreKeyByPublicKey @ 874
+	nsslowkey_StoreKeyByPublicKeyAlg @ 875
+	nsslowkey_TraverseKeys @ 876
+	nsslowkey_UpdateNickname @ 877
+	nsspkcs5_AlgidToParam @ 878
+	nsspkcs5_CipherData @ 879
+	nsspkcs5_ComputeKeyAndIV @ 880
+	nsspkcs5_CreateAlgorithmID @ 881
+	nsspkcs5_DestroyPBEParameter @ 882
+	nsspkcs5_HashBuf @ 883
+	nsspkcs5_NewParam @ 884
+	parentForkedAfterC_Initialize @ 885 DATA
+	pkcs11_allocStaticData @ 886
+	pkcs11_copyNickname @ 887
+	pkcs11_copyStaticData @ 888
+	pkcs11_freeNickname @ 889
+	pkcs11_freeStaticData @ 890
+	prepare_low_dh_priv_key_for_asn1 @ 891
+	prepare_low_dsa_priv_key_export_for_asn1 @ 892
+	prepare_low_dsa_priv_key_for_asn1 @ 893
+	prepare_low_pqg_params_for_asn1 @ 894
+	prepare_low_rsa_priv_key_for_asn1 @ 895
+	prime_tab @ 896 DATA
+	prime_tab_size @ 897 DATA
+	rdbopen @ 898
+	rijndael_decryptBlock @ 899
+	rijndael_encryptBlock @ 900
+	s_bmul_1x1 @ 901
+	s_bmul_2x2 @ 902
+	s_bmul_3x3 @ 903
+	s_bmul_4x4 @ 904
+	s_logv_2 @ 905 DATA
+	s_mp_2expt @ 906
+	s_mp_add @ 907
+	s_mp_add_3arg @ 908
+	s_mp_add_d @ 909
+	s_mp_add_offset @ 910
+	s_mp_alloc @ 911
+	s_mp_almost_inverse @ 912
+	s_mp_clamp @ 913
+	s_mp_cmp @ 914
+	s_mp_cmp_d @ 915
+	s_mp_copy @ 916
+	s_mp_div @ 917
+	s_mp_div_2 @ 918
+	s_mp_div_2d @ 919
+	s_mp_div_d @ 920
+	s_mp_exch @ 921
+	s_mp_exptmod @ 922
+	s_mp_fixup_reciprocal @ 923
+	s_mp_free @ 924
+	s_mp_grow @ 925
+	s_mp_invmod_2d @ 926
+	s_mp_invmod_even_m @ 927
+	s_mp_invmod_odd_m @ 928
+	s_mp_invmod_radix @ 929
+	s_mp_ispow2 @ 930
+	s_mp_ispow2d @ 931
+	s_mp_lshd @ 932
+	s_mp_mod_2d @ 933
+	s_mp_mul @ 934
+	s_mp_mul_2 @ 935
+	s_mp_mul_2d @ 936
+	s_mp_mul_d @ 937
+	s_mp_mul_mont @ 938
+	s_mp_norm @ 939
+	s_mp_outlen @ 940
+	s_mp_pad @ 941
+	s_mp_redc @ 942
+	s_mp_reduce @ 943
+	s_mp_rshd @ 944
+	s_mp_setz @ 945
+	s_mp_sqr @ 946
+	s_mp_sub @ 947
+	s_mp_sub_3arg @ 948
+	s_mp_sub_d @ 949
+	s_mp_to_mont @ 950
+	s_mp_todigit @ 951
+	s_mp_tovalue @ 952
+	s_mpi_getProcessorLineSize @ 953
+	s_mpi_is_sse2 @ 954
+	s_mpp_divp @ 955
+	s_mpv_div_2dx1d @ 956
+	s_mpv_mul_d @ 957
+	s_mpv_mul_d_add @ 958
+	s_mpv_mul_d_add_prop @ 959
+	s_mpv_sqr_add_prop @ 960
+	s_open @ 961
+	s_shutdown @ 962
+	sdb_Abort @ 963
+	sdb_Begin @ 964
+	sdb_Close @ 965
+	sdb_Commit @ 966
+	sdb_CreateObject @ 967
+	sdb_DestroyObject @ 968
+	sdb_FindObjects @ 969
+	sdb_FindObjectsFinal @ 970
+	sdb_FindObjectsInit @ 971
+	sdb_GetAttributeValue @ 972
+	sdb_GetAttributeValueNoLock @ 973
+	sdb_GetMetaData @ 974
+	sdb_PutMetaData @ 975
+	sdb_Reset @ 976
+	sdb_SetAttributeValue @ 977
+	sdb_SetForkState @ 978
+	sdb_init @ 979
+	seckey_encrypt_private_key @ 980
+	sftk_AddAttributeType @ 981
+	sftk_AddObject @ 982
+	sftk_AddSlotObject @ 983
+	sftk_Attribute2SSecItem @ 984
+	sftk_Attribute2SecItem @ 985
+	sftk_AuditCopyObject @ 986
+	sftk_AuditCreateObject @ 987
+	sftk_AuditCryptInit @ 988
+	sftk_AuditDeriveKey @ 989
+	sftk_AuditDestroyObject @ 990
+	sftk_AuditDigestKey @ 991
+	sftk_AuditGenerateKey @ 992
+	sftk_AuditGenerateKeyPair @ 993
+	sftk_AuditGetAttributeValue @ 994
+	sftk_AuditGetObjectSize @ 995
+	sftk_AuditSetAttributeValue @ 996
+	sftk_AuditUnwrapKey @ 997
+	sftk_AuditWrapKey @ 998
+	sftk_CheckDESKey @ 999
+	sftk_CleanupFreeLists @ 1000
+	sftk_CloseAllSessions @ 1001
+	sftk_ConstrainAttribute @ 1002
+	sftk_CopyObject @ 1003
+	sftk_CopyTokenObject @ 1004
+	sftk_DBInit @ 1005
+	sftk_DeleteAttributeType @ 1006
+	sftk_DeleteObject @ 1007
+	sftk_EvaluateConfigDir @ 1008
+	sftk_ExtractTemplate @ 1009
+	sftk_FindAttribute @ 1010
+	sftk_ForkReset @ 1011
+	sftk_FormatDESKey @ 1012
+	sftk_FreeAttribute @ 1013
+	sftk_FreeContext @ 1014
+	sftk_FreeObject @ 1015
+	sftk_FreeObjectList @ 1016
+	sftk_FreeObjectListElement @ 1017
+	sftk_FreeSearch @ 1018
+	sftk_FreeSession @ 1019
+	sftk_GetLengthInBits @ 1020
+	sftk_GetObjectFromList @ 1021
+	sftk_GetPrivKey @ 1022
+	sftk_GetPubKey @ 1023
+	sftk_GetULongAttribute @ 1024
+	sftk_InitFreeLists @ 1025
+	sftk_IsWeakKey @ 1026
+	sftk_LogAuditMessage @ 1027
+	sftk_MapKeySize @ 1028
+	sftk_MechAllowsOperation @ 1029
+	sftk_MultipleAttribute2SecItem @ 1030
+	sftk_NewObject @ 1031
+	sftk_NewSession @ 1032
+	sftk_NewTokenObject @ 1033
+	sftk_ObjectFromHandle @ 1034
+	sftk_ReferenceObject @ 1035
+	sftk_ReturnContextByType @ 1036
+	sftk_SessionFromHandle @ 1037
+	sftk_SetContextByType @ 1038
+	sftk_SlotFromID @ 1039
+	sftk_SlotFromSessionHandle @ 1040
+	sftk_TLSPRFInit @ 1041
+	sftk_ULong2SDBULong @ 1042
+	sftk_addHandle @ 1043
+	sftk_argFetchValue @ 1044
+	sftk_argGetParamValue @ 1045
+	sftk_argStrip @ 1046
+	sftk_audit_enabled @ 1047 DATA
+	sftk_convertSessionToToken @ 1048
+	sftk_defaultAttribute @ 1049
+	sftk_emailhack @ 1050
+	sftk_fatalError @ 1051 DATA
+	sftk_fipsPowerUpSelfTest @ 1052
+	sftk_forceAttribute @ 1053
+	sftk_freeDB @ 1054
+	sftk_freeParams @ 1055
+	sftk_getCertDB @ 1056
+	sftk_getDBForTokenObject @ 1057
+	sftk_getDefSlotName @ 1058
+	sftk_getDefTokName @ 1059
+	sftk_getKeyDB @ 1060
+	sftk_getSecmodName @ 1061
+	sftk_getString @ 1062
+	sftk_handleObject @ 1063
+	sftk_hasAttribute @ 1064
+	sftk_hasAttributeToken @ 1065
+	sftk_isSensitive @ 1066
+	sftk_isTrue @ 1067
+	sftk_modifyType @ 1068
+	sftk_narrowToSessionObject @ 1069
+	sftk_narrowToTokenObject @ 1070
+	sftk_nullAttribute @ 1071
+	sftk_objectMatch @ 1072
+	sftk_parseParameters @ 1073
+	sftk_searchObjectList @ 1074
+	sftk_update_all_states @ 1075
+	sftk_update_state @ 1076
+	sftkdbCall_AddSecmodDB @ 1077
+	sftkdbCall_DeleteSecmodDB @ 1078
+	sftkdbCall_ReadSecmodDB @ 1079
+	sftkdbCall_ReleaseSecmodDBData @ 1080
+	sftkdbCall_Shutdown @ 1081
+	sftkdbCall_open @ 1082
+	sftkdb_Abort @ 1083
+	sftkdb_AddSecmodDB @ 1084
+	sftkdb_Begin @ 1085
+	sftkdb_ChangePassword @ 1086
+	sftkdb_CheckPassword @ 1087
+	sftkdb_ClearPassword @ 1088
+	sftkdb_CloseDB @ 1089
+	sftkdb_Commit @ 1090
+	sftkdb_DecryptAttribute @ 1091
+	sftkdb_DeleteSecmodDB @ 1092
+	sftkdb_DestroyObject @ 1093
+	sftkdb_EncryptAttribute @ 1094
+	sftkdb_EncryptedDataInfoTemplate @ 1095 DATA
+	sftkdb_FindObjects @ 1096
+	sftkdb_FindObjectsFinal @ 1097
+	sftkdb_FindObjectsInit @ 1098
+	sftkdb_FreeUpdatePasswordKey @ 1099
+	sftkdb_GetAttributeValue @ 1100
+	sftkdb_GetUpdateID @ 1101
+	sftkdb_GetUpdatePasswordKey @ 1102
+	sftkdb_HasPasswordSet @ 1103
+	sftkdb_InUpdateMerge @ 1104
+	sftkdb_NeedUpdateDBPassword @ 1105
+	sftkdb_PWCached @ 1106
+	sftkdb_PutAttributeSignature @ 1107
+	sftkdb_ReadSecmodDB @ 1108
+	sftkdb_ReleaseSecmodDBData @ 1109
+	sftkdb_ResetKeyDB @ 1110
+	sftkdb_SetAttributeValue @ 1111
+	sftkdb_Shutdown @ 1112
+	sftkdb_SignAttribute @ 1113
+	sftkdb_TypeString @ 1114
+	sftkdb_Update @ 1115
+	sftkdb_VerifyAttribute @ 1116
+	sftkdb_convertObjects @ 1117
+	sftkdb_dropAttribute @ 1118
+	sftkdb_reconcileTrustEntry @ 1119
+	sftkdb_trustList @ 1120 DATA
+	sftkdb_write @ 1121
+	stfk_CopyTokenAttributes @ 1122
+	stfk_CopyTokenPrivateKey @ 1123
+	stfk_CopyTokenPublicKey @ 1124
+	stfk_CopyTokenSecretKey @ 1125
+	testContext @ 1126 DATA
+	??_C@_00CNPNBAHC@?$AA@ @ 1127 DATA
