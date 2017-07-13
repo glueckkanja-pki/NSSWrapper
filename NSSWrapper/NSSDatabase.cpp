@@ -114,10 +114,10 @@ p12u_ucs2_ascii_conversion_function(PRBool	   toUnicode,
 #if NSSWRAPPER_INCLUDE_DYNAMICS
 						// this must be set to false if LoadLibrary was used to load this DLL
 						// (which will happen: NSSWrapper loads itself dynamically through
-						// the NSS code multiple times, for example as a PKCS#10 module
+						// the NSS code multiple times, for example as a PKCS#10 module)
 						// Anyway, it seems not to cause a problem on systems >= Vista.
 						// On XP and 2003, the program fails with a memory access error
-						// in NSS_InitReadWrite(caDbPath a couple of lines below.
+						// in NSS_InitReadWrite(caDbPath) a couple of lines below.
 						// The use of _pr_use_static_tls = true is faster, so perhaps
 						// the code here should check for the Windows version and use
 						// _pr_use_static_tls = true for systems >= Vista
